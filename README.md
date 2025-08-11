@@ -36,13 +36,7 @@ nginx<br>
 CopyEdit<br>
 Desktop > IP Configuration > Enter IP: 192.168.1.2 / Subnet: 255.255.255.0<br>
 For Router Configuration (CLI):<br>
-arduino<br>
-CopyEdit<br>
-Router> enable<br>
-Router# configure terminal<br>
-Router(config)# interface FastEthernet0/0<br>
-Router(config-if)# ip address 192.168.1.1 255.255.255.0<br>
-Router(config-if)# no shutdown<br>
+
 ________________________________________
 # Output (Screenshots / Ping Results)
 
