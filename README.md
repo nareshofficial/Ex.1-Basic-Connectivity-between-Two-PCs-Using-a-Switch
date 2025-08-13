@@ -1,5 +1,7 @@
+# NAME : NARESH.P.S
+# REG NO : 212223040127
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 13:08:2025
 
 # Objective
 
@@ -40,7 +42,13 @@ For Router Configuration (CLI):<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
-Insert screenshots showing ping success, configuration, or simulation results.
+<img width="1917" height="1019" alt="Screenshot 2025-08-11 133730" src="https://github.com/user-attachments/assets/1db78a3b-4d45-43ff-b9fe-0e54bf457b2f" />
+
+
+<img width="1919" height="1012" alt="Screenshot 2025-08-11 133816" src="https://github.com/user-attachments/assets/febff44d-e8ea-4cd8-8c03-4cd5432c1165" />
+
+
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
